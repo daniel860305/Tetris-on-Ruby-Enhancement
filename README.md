@@ -8,9 +8,9 @@ to provide more functionalities in the game.
 
 ## Enhancement
 There are three enhancements in the game:
-	- Add 3 more regular pieces to the set of pieces to increase difficulty of the game.
-	- A secret cheating function is added into the game to help you play longer.
-	- A secret key-bindings to turn the pieces upside down, allowing you to adjust the orientation of the pieces faster.
+	- **Add 3 more regular pieces** to the set of pieces to increase difficulty of the game.
+	- A **secret cheating function** is added into the game to help you play longer.
+	- A **secret key-bindings** to turn the pieces upside-down, allowing you to adjust the orientation of the pieces faster.
 
 Both secrets are technically not secrets, as you can easily find it in the "tetris-enhanced.rb" file.
 
@@ -20,7 +20,7 @@ I suggest you search through the internet to find the suitable version for your 
 
 1. Download all the files in the repo into your local directory.
 2. Open the command prompt, navigate to the directory where you put your files in.
-3. Type "ruby main.rb" to start the game.
-4. If you want to play the original version, type "ruby main.rb original".
+3. Type "**ruby main.rb**" to start the game.
+4. If you want to play the original version, type "**ruby main.rb original**".
 
 
