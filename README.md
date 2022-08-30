@@ -1,5 +1,6 @@
 # Tetris-on-Ruby-Enhancement
 ![image](https://user-images.githubusercontent.com/91551415/187430504-3611b87e-11f1-4e90-9b09-26c4b310517b.png)
+
 This is a project from the course "Programming Languages, Part C" provided by University of Washington.
 
 Building on a original Tetris game provided by the course ("tetris-original.rb"), enhanced version of Tetris game is built
