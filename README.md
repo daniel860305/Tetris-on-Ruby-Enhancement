@@ -8,9 +8,9 @@ to provide more functionalities in the game.
 
 ## Enhancement
 There are three enhancements in the game:
-	- **Add 3 more regular pieces** to the set of pieces to increase difficulty of the game.
-	- A **secret cheating function** is added into the game to help you play longer.
-	- A **secret key-bindings** to turn the pieces upside-down, allowing you to adjust the orientation of the pieces faster.
+	1. **Add 3 more regular pieces** to the set of pieces to increase difficulty of the game.
+	2. A **secret cheating function** is added into the game to help you play longer.
+	3. A **secret key-bindings** to turn the pieces upside-down, allowing you to adjust the orientation of the pieces faster.
 
 Both secrets are technically not secrets, as you can easily find it in the "tetris-enhanced.rb" file.
 
